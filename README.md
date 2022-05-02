@@ -15,7 +15,7 @@
 
 ## Minhas linguagens:
 
-### Tenho interesse em aprender:
+## Tenho interesse em aprender:
 
 ![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![HTML](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
@@ -23,13 +23,9 @@
 ![NodeJs](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor)
 
-  ### Atualmente aprendendo:
+## Atualmente aprendendo:
   
 ![csharp](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor)
 ![.net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
-
-  </div>
   
-  ![Snake animation](https://github.com/MatheusLuizGarcia/MatheusLuizGarcia/blob/output/github-contribution-grid-snake.svg)
-  
-  </div>
+![Snake animation](https://github.com/MatheusLuizGarcia/MatheusLuizGarcia/blob/output/github-contribution-grid-snake.svg)
