@@ -1,7 +1,9 @@
 <span style="font-family:ISOCPEUR;">
 
 # Olá, eu sou o Matheus Luiz!!
-
+  
+Dev em formação, apredendo diversas linguagens e ferramentas de programação, nos meus repositórios você poderá encontrar documentações e exercícios dos meu cursos e aulas que faço parte, também poderá encontrar alguns projetos tanto recreativos quanto de aprendizado e experimentação de conteúdos estudados.
+  
 ## Você pode me encontrar aqui:
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheus-luiz-garcia-b48680238/)
