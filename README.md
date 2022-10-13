@@ -13,7 +13,7 @@ Dev em formação, apredendo diversas linguagens e ferramentas de programação,
 
 ![Matheus Luiz GitHub stats](https://github-readme-stats.vercel.app/api?username=matheusluizgarcia&show_icons=true&theme=tokyonight)
 
-![Matheus Luiz Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusLuizGarcia&layout=compact&theme=tokyonight&hide=html)
+![Matheus Luiz Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusLuizGarcia&layout=compact&theme=tokyonight&hide=html,css)
 
 ## Minhas linguagens:
 
