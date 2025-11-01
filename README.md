@@ -12,7 +12,7 @@
 
 ![Matheus Luiz GitHub stats](https://github-readme-stats.vercel.app/api?username=matheusluizgarcia&show_icons=true&theme=tokyonight&count_private=true)
 
-![Matheus Luiz Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusLuizGarcia&layout=compact&theme=tokyonight&hide=html,css,llvm)
+![Matheus Luiz Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusLuizGarcia&layout=compact&theme=tokyonight&hide=html,css,llvm,c)
 
 ## Minhas linguagens:
 
